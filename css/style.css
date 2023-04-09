@@ -13,6 +13,19 @@ header {
     background: #0000;
 
 }
+
+.menu{
+    background: violet;
+}
+
+.logo{
+    background: #146C94;
+
+}
+
+.nav{
+    background:#19A7CE ;
+}
 .section{
     background: green;
 
