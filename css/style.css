@@ -30,6 +30,12 @@ header {
     background: green;
 
 }
+.articulo-banner{
+    background: #FF6000;
+}
+h1{
+    background: #5eff00;
+}
 .footer {
     background: rgb(209, 195, 0);
 }
