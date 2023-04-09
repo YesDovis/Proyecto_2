@@ -1,0 +1,22 @@
+/*----GLOBALES--*/
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.padrecontainer{
+    background:red;
+
+}
+header {
+    background: #0000;
+
+}
+.section{
+    background: green;
+
+}
+.footer {
+    background: rgb(209, 195, 0);
+}
